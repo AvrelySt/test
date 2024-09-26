@@ -1,4 +1,4 @@
 # Hello, world!
 
-I study suka
+I study
 25.09.2024
